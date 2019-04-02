@@ -13,7 +13,7 @@
 <category id="4">Держатель для бит</category>
 <category id="5">Набор отверток</category>
 <category id="6">Шило</category>
-<category id="7">Ключи</category>  
+<category id="7">Ключи</category>
 </categories>
 <offers>
 <offer id="5057621" available="true">
@@ -787,8 +787,7 @@ https://inalliance.org/image/cache/catalog/wera/334_350_355_7_rack_red_bull_raci
 <p>PH<br />PZ<br />SL</p>]]>
 </param>
 <param name="Материал рукоятки">Многокомпонентный</param>
-<param name="Комплект поставки"><![CDATA[
-<p>Отвертки PH1 x 80, PH2 x 100</p> 
+<param name="Комплект поставки">
 <p>Отвертки PZ1 x 80, PZ2 x 100</p> 
 <p>Отвертки SL 1.2 x 6.5 x 150, SL 0.6 x 3.5 x 100, SL1.0 x 5.5 x 125</p>
 </param>
@@ -805,14 +804,9 @@ https://inalliance.org/image/cache/catalog/wera/1427%20(1)-1000x1000.jpg
 <vendor>Wera</vendor>
 <stock_quantity>8</stock_quantity>
 <name>Шило Wera 105 мм (5027405)</name>
-<description>
-<![CDATA[
 <p>Шило Wera для получения одинаковых круглых отверстий.</p>
- <p><strong>Длина рукоятки, мм:</strong> 92&nbsp;</p>
- <p><strong>Длина стержня, мм: </strong>105</p>
- <p>&nbsp;</p>
-]]>
-</description>
+ <p><strong>Длина рукоятки, мм:</strong> 92 мм</p>
+ <p><strong>Длина стержня, мм: </strong>105 мм</p>
 <param name="Страна-производитель товара">Чехия</param>
 <param name="Вид">Шило</param>
 <param name="Длина">19.7 см</param>
